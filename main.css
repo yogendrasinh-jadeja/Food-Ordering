@@ -72,7 +72,7 @@ html{
 }
 #home::before{
     content: "";
-    background:url('/image/bg1.jpg.jpg') no-repeat center center/cover;
+    background:url('./image/bg1.jpg.jpg') no-repeat center center/cover;
     position: absolute;
     height: 60%;
     width: 100%;
@@ -117,7 +117,7 @@ html{
 
 #client-sec{
     /* height: 320px; */
-    background: url('/image/client.jpg');
+    background: url('./image/client.jpg');
     border: 1px solid gray;
 }
 #client-sec img{
@@ -143,7 +143,7 @@ html{
     height: 100%;
     z-index: -1;
     opacity: 0.7;
-    background: url('/image/contact.jpg') no-repeat center center/cover;
+    background: url('./image/contact.jpg') no-repeat center center/cover;
 }
 #contact-box{
     display: flex;
