@@ -25,7 +25,7 @@ Html5, Css3.
 Clone the project
 
 ```bash
-  git clone [https://github.com/yogendrasinh-jadeja/portfolio](https://github.com/yogendrasinh-jadeja/Food-Ordering)
+  git clone https://github.com/yogendrasinh-jadeja/Food-Ordering
 ```
 
 Go to the project directory
